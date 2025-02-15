@@ -346,7 +346,7 @@ llm:
         instruction: ["<instruction>\n", "</instruction>\n"]
         goal: ["<goal>\n", "</goal>\n"]
       use_parser: False
-  claude-3-Sonnet:
+  claude-3.5-sonnet:
       name: claude
       engine: claude-3-5-sonnet-20241022
       temperature: 0.
