@@ -20,7 +20,7 @@ bash generate.sh ${MODEL} ${CORRECTION_TIME}
 ```
 To try different values for `$PROMPT_TYPE` and `$DESCRIPTION_TYPE`, you can manually modify them in the `generate.sh` script.
 
-## Complete `.env` file
+## Complete `utils/.env` file
 ```
 OPENAI_API_TYPE="open_ai"
 OPENAI_API_BASE=...
